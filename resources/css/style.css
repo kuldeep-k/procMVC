@@ -1,0 +1,14 @@
+table.listing {
+    font-family:  arial;
+    /*border-collapse:collapse;
+    border-spacing: 1px;
+    */
+    border-spacing: 0px;
+    width: 80%;
+}
+
+table.listing th, table.listing td {
+    border: 1px solid black;
+    height: 30px;
+    padding: 5px;
+}
